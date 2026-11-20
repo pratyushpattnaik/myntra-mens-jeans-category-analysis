@@ -76,7 +76,7 @@ The source dataset is not included in this repository. Do not publish Myntra-own
 
 ## Project report
 
-The `reports/` folder contains the written project report with the dataset overview, methodology, findings, tables and recommendations.
+The written project report contains the dataset overview, methodology, findings, tables and business recommendations.
 
 ## Dashboard Preview
 
