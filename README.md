@@ -77,3 +77,9 @@ The source dataset is not included in this repository. Do not publish Myntra-own
 ## Project report
 
 The `reports/` folder contains the written project report with the dataset overview, methodology, findings, tables and recommendations.
+
+## Dashboard Preview
+
+The dashboard summarises the men's jeans catalogue across key category metrics, brand assortment, price segments, product styles and customer ratings.
+
+![Myntra Men's Jeans Category Dashboard](screenshots/Myntra%20dashboard.png)
